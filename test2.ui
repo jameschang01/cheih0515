@@ -16,7 +16,7 @@
   <property name="styleSheet">
    <string notr="true">font: 9pt &quot;微軟正黑體&quot;;</string>
   </property>
-  <widget class="QPushButton" name="PressMeBotton">
+  <widget class="QPushButton" name="ShowStringButton">
    <property name="geometry">
     <rect>
      <x>370</x>
@@ -33,7 +33,7 @@ color: rgb(255, 255, 255);</string>
     <string>show string</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="ShowStringBotton">
+  <widget class="QPushButton" name="PressMeButton">
    <property name="geometry">
     <rect>
      <x>720</x>
